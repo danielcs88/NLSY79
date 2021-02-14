@@ -1,0 +1,30 @@
+
+
+Reference
+Number     Year    Variable Description                                               Question Name              
+-------------------------------------------------------------------------------------------------------------------
+R00001.00  1979    IDENTIFICATION CODE                                                CASEID                     
+R00006.00  1979    AGE OF R                                                           FAM-1B                     
+R00065.00  1979    HIGHEST GRADE COMPLETED BY R'S MOTHER                              HGC-MOTHER                 
+R00079.00  1979    HIGHEST GRADE COMPLETED BY R'S FATHER                              HGC-FATHER                 
+R01736.00  1979    SAMPLE IDENTIFICATION CODE                                         SAMPLE_ID                  
+R02147.00  78SCRN  R'S RACIAL/ETHNIC COHORT FROM SCREENER                             SAMPLE_RACE                
+R02148.00  1979    SEX OF R                                                           SAMPLE_SEX                 
+R06185.00  1981    FAMILY POVERTY STATUS IN 1980                                      POVSTATUS                  
+R06483.01  XRND    ASVAB - ARITHMETIC REASONING/MATHEMATICS KNOWLEDGE Z SCORE         ASVAB-AR-MK-IRT-ZSCORE     
+R06483.43  XRND    ASVAB - WORD KNOWLEDGE Z SCORE                                     ASVAB-WORDKNOW-IRT-ZSCORE  
+R12078.00  1984    MAJOR FIELD OF STUDY AT MOST RECENT COLLEGE ATTENDED               Q3-23_1                    
+R25098.00  1988    HIGHEST DEGREE EVER RECEIVED                                       Q3-10B                     
+T52569.00  2016    OCCUPATION (CENSUS 4 DIGIT, 00 CODES) (ALL) JOB #01                OCCALL-EMP.01              
+T52574.00  2016    CLASS OF WORKER (ALL) JOB #01                                      COWALL-EMP.01              
+T53443.00  2016    # OF EMPLOYEES AT LOCATION OF R'S JOB # 01                         QES-FIRMSZ2.01             
+T54075.00  2016    INT CHECK - ANY PERIODS NOT EMPLOYED IN WORK HISTORY CALENDAR?     Q7-A                       
+T56195.00  2016    TOTAL INCOME FROM WAGES AND SALARY IN PAST CALENDAR YEAR  (TRUNC)  Q13-5_TRUNC                
+T56845.00  2016    FAMILY NET WEALTH (TRUNC) *KEY*                                    TNFW_TRUNC                 
+T57346.00  2016    CHANCES RS HEALTH LIMITS WORK IN NEXT 10 YEARS                     RETIRE_EXP_P2_E3           
+T57707.00  2016    FAMILY SIZE                                                        FAMSIZE                    
+T57708.00  2016    TOTAL NET FAMILY INCOME IN PAST CALENDAR YEAR *KEY* (TRUNCATED)    TNFI_TRUNC                 
+T57709.00  2016    FAMILY POVERTY STATUS IN PREVIOUS CALENDAR YEAR                    POVSTATUS                  
+T57710.00  2016    REGION OF CURRENT RESIDENCE                                        REGION                     
+T57712.00  2016    MARITAL STATUS                                                     MARSTAT-KEY                
+T57740.00  2016    IS R'S CURRENT RESIDENCE URBAN/RURAL?                              URBAN-RURAL                

@@ -1,0 +1,32 @@
+The most non-resilient employment individual's characteristics on average translate to:
+
+- Age: 54 (14.48%)
+- Race: Non-Black, Non-Hispanic (52.98%)
+- Sample Sex: Male (50.5%)
+- Average ASVAB Math: 488.54
+- Average ASVAB Word: 484.70
+- Major: 1200 Health Professions
+- Max Degree: High School (56.85%)
+- Class of Worker: Private for profit company (51.36%)
+- Average Firm Size: 1360 people
+- Average Income: \$62,512
+- Region: South (40.85%)
+- Marital status: Married (59.72%)
+- Urban/Rural: Urban (78.272%)
+
+
+The most resilient employment individual's characteristics on average translate to:
+
+- Age: 55 (15.01%)
+- Race: Non-Black, Non-Hispanic (22%)
+- Sample Sex: Female (55.32%)
+- Average ASVAB Math: 447.25
+- Average ASVAB Word: 448.60
+- Major: 500, Business and Management
+- Max Degree: High School (56.45%)
+- Class of Worker: Private for profit company (28.51%) (although the mode was the mean, implying missing NaN value (56.2%))
+- Average Firm Size: 1295 people
+- Average Income: \$15,838
+- Region: South (45.78%)
+- Marital status: Married (44.33%)
+- Urban/Rural: Urban (75.52%)
