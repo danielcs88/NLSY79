@@ -4,9 +4,9 @@
 
 ## An Analysis on the effects of characteristics on Unemployment.
 
-I am using the data from the [National Longitudinal Survey of Youth 1979](https://www.bls.gov/nls/nlsy79.htm).
+Using the data from the [National Longitudinal Survey of Youth 1979](https://www.bls.gov/nls/nlsy79.htm).
 
-My hypothesis are that the these variables will provide a broader and more robust picture of which Americans go through struggles or which Americans conditions are resilient to unemployment.
+My hypothesis is that these variables will provide a broader and more robust picture of which Americans go through struggles or which Americans' conditions are resilient to unemployment.
 
 I will attempt to find the underlying importance of certain exogenous variables to explain key endogenous variables using logistic regression.
 
